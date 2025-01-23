@@ -25,42 +25,59 @@ interface Project {
 const projects: Project[] = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "Jampi Ati",
     description:
-      "A full-stack e-commerce platform with real-time inventory, payment processing, and admin dashboard.",
+      "A web application that promotes information regarding medical plants, simplicias, tools, traditional manuscripts, and educational video of herbs.",
     type: ["web"],
-    role: "Full Stack Developer",
-    technologies: ["React", "Node.js"],
+    role: "Back-end Developer",
+    technologies: ["Strapi", "Javascript"],
     links: {
-      demo: "#",
+      demo: "https://jampiati.jogjaprov.go.id/",
       github: "#",
     },
+    image: "/jampi-ati.png",
   },
   {
     id: 2,
-    title: "Finance App Redesign",
+    title: "Simaster Redesign (vNEXT)",
     description:
-      "Redesigned a finance app focusing on improved user experience, accessibility, and modern design patterns.",
+      "Redesigned Simaster a mobile app that is an Online Academic Information System for Students and Lecturers of Gadjah Mada University.",
     type: ["uiux"],
     role: "UI/UX Designer",
-    technologies: ["Figma", "UI/UX"],
+    technologies: ["Figma"],
     links: {
       caseStudy: "#",
       prototype: "#",
     },
+    image: "/vnext.webp",
   },
   {
     id: 3,
-    title: "Task Management App",
+    title: "iPerfect",
     description:
-      "A collaborative task management application with real-time updates and team collaboration features.",
+      "A web application that help to manage operational and calculation from each processes in fertilizer factory, Pupuk Kaltim.",
     type: ["web"],
-    role: "Frontend Developer",
+    role: "Front-end Developer",
     technologies: ["Next.js", "TypeScript"],
     links: {
       demo: "#",
       github: "#",
     },
+    image: "iPerfect.png",
+  },
+  {
+    id: 4,
+    title: "Lekamantra",
+    description:
+      "A web application that help to manage document translation process.",
+    type: ["web"],
+    role: "Full Stack Developer",
+    technologies: ["Next.js", "TypeScript", "Golang", "PostgreSQL"],
+    links: {
+      demo: "http://lekamantra.com/",
+      github: "https://github.com/JunianN/skripsi-fe",
+    },
+    image: "lekamantra.png",
   },
 ];
 
