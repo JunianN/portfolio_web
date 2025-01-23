@@ -142,22 +142,23 @@ export default function Home() {
               great but function flawlessly.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-4">
-              Over the years, I've honed my skills in HTML, CSS, JavaScript,
-              React.JS, Next.JS, Express.JS, Node.JS, Golang, MongoDB,
-              PostgreSQL and I'm always excited to learn and adapt to the latest
-              web technologies and trends. My goal is to craft websites that not
-              only meet the needs of clients but also engage and delight their
-              audiences.
+              Over the years, I&apos;ve honed my skills in HTML, CSS,
+              JavaScript, React.JS, Next.JS, Express.JS, Node.JS, Golang,
+              MongoDB, PostgreSQL and I&apos;m always excited to learn and adapt
+              to the latest web technologies and trends. My goal is to craft
+              websites that not only meet the needs of clients but also engage
+              and delight their audiences.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto mb-4">
-              Whether you're looking to develop a dynamic web application,
-              improve an existing website, or start a brand new project, I'm
-              here to help bring your vision to life with clean, efficient code
-              and an eye for detail.
+              Whether you&apos;re looking to develop a dynamic web application,
+              improve an existing website, or start a brand new project,
+              I&apos;m here to help bring your vision to life with clean,
+              efficient code and an eye for detail.
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              Take a look through my portfolio to see some of my work, and don't
-              hesitate to reach out if you'd like to discuss your next project!
+              Take a look through my portfolio to see some of my work, and
+              don&apos;t hesitate to reach out if you&apos;d like to discuss
+              your next project!
             </p>
           </motion.div>
         </div>
